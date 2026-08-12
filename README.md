@@ -1,4 +1,4 @@
-# Quick Friend Book
+# Quacks Friend Book
 
 A robust friend book application written in Delphi for managing your most valuable connections.
 
